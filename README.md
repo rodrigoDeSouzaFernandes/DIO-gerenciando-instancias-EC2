@@ -1,4 +1,4 @@
-# Anotações – Gerenciando instâncias ECS
+# Anotações – Gerenciando instâncias EC2 na AWS
 
 ---
 
